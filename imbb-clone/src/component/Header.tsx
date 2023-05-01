@@ -16,8 +16,8 @@ export default function Header() {
         <DarkModeSwitch />
         <Link href="/">
           <h2 className="text-2xl">
-            <span className='font-bold bg-amber-500 py-1 px-2 rounded-lg mr-1'>기무노</span>
-            <span className='text-xl hidden sm:inline'>인수</span>
+            <span className='font-bold bg-amber-500 py-1 px-2 rounded-lg mr-1'>movie</span>
+            <span className='text-xl hidden sm:inline'>clone</span>
           </h2>
         </Link>
       </div>
